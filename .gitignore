@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+
+# The assignment uses the instructor-supplied local copy. Do not publish it
+# unless the course explicitly requires a data upload.
+churn.csv
+
+# Keep the instructor's assignment handout local; it is not a required
+# repository deliverable.
+VD1_STUDENT_PACK.html
