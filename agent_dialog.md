@@ -338,7 +338,15 @@ failed
 Adjust how often this is run with `$HOMEBREW_AUTO_UPDATE_SECS` or disable with
 `$HOMEBREW_NO_AUTO_UPDATE=1`. Hide these hints with `$HOMEBREW_NO_ENV_HINTS=1` (see `man brew`).
 ==> Downloading https://ghcr.io/v2/homebrew/core/portable-ruby/blobs/sha256:57bebadc864405cbd39743e32eef741f4b75c0ba121f5cd9296ab84994b9f83b
-#=#=#                                                                          ##O#-#                                                                         ##O=#  #                                                                       #=#=-#  #                                                                      #                                                                          2.0%######################                                                    31.1%########################################################                  77.9%######################################################################## 100.0%
+#=#=#                                                                          
+##O#-#                                                                         
+##O=#  #                                                                       
+#=#=-#  #                                                                      
+
+#                                                                          2.0%
+######################                                                    31.1%
+########################################################                  77.9%
+######################################################################## 100.0%
 ==> Pouring portable-ruby-4.0.7.big_sur.bottle.tar.gz
 Warning: You are using macOS on Intel x86_64.
 We do not provide support for this platform (as-of September 2026, announced August 2025).
