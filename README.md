@@ -80,4 +80,3 @@ The complete `outputs/` directory contains:
 - `outputs/` — complete generated output directory
 - `AI_transcript.md` — verbatim transcript of the Codex assistance used for the project
 - `AI_USE.md` — brief description of AI assistance and personal checks
-- `memo.pdf` — add the student-authored one-page memo before submission
